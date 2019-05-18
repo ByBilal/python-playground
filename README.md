@@ -3,6 +3,18 @@ Learning Python and building intro level tools.
 
 ## git notes -- common commands
 
+showing status to local repository branch
+
+```
+git status
+```
+
+listing all repository branches, local and remote
+
+```
+git branch -a
+```
+
 pushing the code to github from local machine
 
 ```
